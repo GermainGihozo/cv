@@ -1,2 +1,1 @@
-germaingihozo.github.io
-https://github.com/GermainGihozo/cv
+https://germaingihozo.github.io/cv/
