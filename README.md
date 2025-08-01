@@ -3,4 +3,4 @@
 This is a description of my project.
 
 ## Live Demo
-- **Live Site URL:** [https://germaingihozo.github.io/cv/](https://germaingihozo.github.io/cv/)
+- **Live Site URL:** [https://germaingihozo.github.io/cv/]
